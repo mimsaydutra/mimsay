@@ -1,0 +1,102 @@
+@charset "UTF-8";
+
+body {
+   background-image: url(fundo.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   text-align: center;
+}
+
+img {
+   middle border: 8px solid black;
+
+}
+
+.teste {
+   color: white;
+}
+
+body {
+   background-color: #000;
+   background-size: cover;
+   background-repeat: no-repeat;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+   color: aliceblue;
+
+}
+
+p {
+   font-size: 17px;
+   color: aliceblue;
+}
+
+img {
+
+   border: 8px solid black;
+
+}
+
+.teste {
+   color: white;
+}
+
+* {
+   margin: 0;
+   padding: 0;
+}
+
+body {
+   font-family: arial, helvetica, sans-serif;
+   font-size: 12px;
+}
+
+.menu {
+   list-style: none;
+   border: 1px solid #c0c0c0;
+   float: left;
+}
+
+.menu li {
+   position: relative;
+   float: left;
+   border-right: 1px solid #f0efef;
+}
+
+.menu li a {
+   color: #ffffff;
+   text-decoration: none;
+   padding: 5px 10px;
+   display: block;
+}
+
+.menu li a:hover {
+   background: rgb(138, 137, 137);
+   color: #fff;
+   -moz-box-shadow: 0 3px 10px 0 #CCC;
+   -webkit-box-shadow: 0 3px 10px 0 #ccc;
+   text-shadow: 0px 0px 5px #fff;
+}
+
+.menu li ul {
+   position: absolute;
+   top: 25px;
+   left: 0;
+   background-color: #fff;
+   display: none;
+}
+
+.alignright {
+   margin: 0 0 0 auto;
+}
+
+.aligncenter {
+   margin-top: 15em;
+}

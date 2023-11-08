@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body{ background-color: #000;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+img{
+
+border: 8px solid black;
+
+}
+
+.teste { color: white;
+}
